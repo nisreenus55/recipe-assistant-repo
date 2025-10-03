@@ -95,6 +95,10 @@ Database: H2 (dev), can extend to MySQL/Postgres
 ✅ Deploy with Docker for full-stack portability
 
 📸 Screenshots Product List Recipe Assistant
+<img width="2279" height="546" alt="image" src="https://github.com/user-attachments/assets/bfdd0aca-8515-4247-86f9-04a1fa281cb9" />
+
+<img width="1946" height="497" alt="image" src="https://github.com/user-attachments/assets/c7deece4-b155-438b-8c47-f0c792430f2d" />
+<img width="1921" height="462" alt="image" src="https://github.com/user-attachments/assets/bc6c477a-0d82-4ee6-908c-38af996ee026" />
 
 👨‍💻 Author
 
