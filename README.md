@@ -97,6 +97,9 @@ Database: H2 (dev), can extend to MySQL/Postgres
 📸 Screenshots Product List Recipe Assistant
 <img width="1946" height="477" alt="image" src="https://github.com/user-attachments/assets/9363e887-befd-409c-870d-ac945a249e2c" />
 
+<img width="1913" height="528" alt="image" src="https://github.com/user-attachments/assets/da365a80-bdc6-4f7a-9664-b14176e46443" />
+
+
 
 👨‍💻 Author
 
