@@ -1,0 +1,2 @@
+ollama pull llama2
+ollama run llama2
