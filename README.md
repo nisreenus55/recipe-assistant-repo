@@ -46,7 +46,7 @@ Backend runs on 👉 http://localhost:8080
 
 3️⃣ Frontend Setup (React) cd frontend npm install npm start
 
-Frontend runs on 👉 http://localhost:3000
+Frontend runs on 👉 http://localhost:5173
 
 4️⃣ Ollama Setup
 
